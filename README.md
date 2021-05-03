@@ -9,7 +9,7 @@ for testing the accuracy of function we have a set of images (test) with differe
 the accuracy with this test images is 64%
 ## Example
 ### Test Image: 
-![see example picture here](test/Image_1_1.png)
+![see example picture here](Image_1_1.png)
 
 ### Result Image:
 ![see example picture here](answer/Image_1_1.png)
